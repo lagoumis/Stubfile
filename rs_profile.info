@@ -1,0 +1,5 @@
+name = RobertSims.com
+description = Installation profile for RobertSims.com
+version = 2.x-dev
+core = 7.x
+
